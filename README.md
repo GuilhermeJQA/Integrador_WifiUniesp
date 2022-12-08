@@ -1,5 +1,5 @@
 # Integrador_WifiUniesp
-GRUPO:
+GRUPO D:
 Marcos Pablo Araujo Santos,
 Polyara Virginia Soares Lima,
 Marcelo de Medeiros Silva,,
